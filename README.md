@@ -5,7 +5,7 @@
 - 🎨 I have experience in **Frontend and Backend Development** with **Django, Flask, React.js, Node.js, Express.js**
 - 🤖 Learning  **AI-Integrated Website Development**
 - 📚 Check out my projects on **[Project & work ](https://github.com/thecodingdhami?tab=repositories)**
-- 💬 Ask me about **c, C++, DSA, HTML, CSS, JavaScript, Python, Machine Learning**
+- 💬 Ask me about **C, C++, DSA, HTML, CSS, JavaScript, Python, Machine Learning**
 - 📧 Reach me at **dineshsingh@nast.edu.np**
 
 <h3 align="left">Connect with me:</h3>
