@@ -20,7 +20,7 @@ class AboutMe:
 
 **Languages:**
 
-[![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/thecodingdhami?tab=repositories&q=&type=&language=python)
+[![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/dineshsinghdhami?tab=repositories&q=&type=&language=python)
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/thecodingdhami?tab=repositories&q=&type=&language=javascript)
 [![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/thecodingdhami?tab=repositories&q=&type=&language=html)
 [![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/thecodingdhami?tab=repositories&q=&type=&language=css)
