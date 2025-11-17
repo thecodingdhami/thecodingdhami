@@ -1,4 +1,4 @@
-### Hi there, I'm [Dinesh Singh Dhami!](https://dineshsinghdhami.com.np/), an aspiring developer.
+### Hi there, I'm [Dinesh Singh Dhami!](https://dineshsinghdhami.com.np/), a coding Newbie.
 ### About Me 🙋🏻‍♂️
 ```javascript
 class AboutMe:
